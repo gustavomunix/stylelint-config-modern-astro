@@ -1,0 +1,21 @@
+{
+  "name": "stylelint-config-modern-astro",
+  "version": "0.1.0",
+  "description": "Shareable stylelint config: stylelint-config-modern hardened for Astro (ranges, duplicates, unknown properties, .astro <style> via postcss-html)",
+  "type": "module",
+  "license": "MIT",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "stylelint",
+    "stylelint-config",
+    "astro",
+    "modern-css"
+  ],
+  "dependencies": {
+    "postcss-html": "^2.0.1",
+    "stylelint-config-modern": "^2.0.1"
+  }
+}
