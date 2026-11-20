@@ -16,7 +16,7 @@ Browser support policy and the `@layer`/nesting guidance live in the skill; what
 ```bash
 pnpm add -D stylelint-config-modern-astro
 # pinned to a commit, without npm:
-pnpm add -D github:gustavomunix/stylelint-config-modern-astro#af1158c
+pnpm add -D github:gustavomunix/stylelint-config-modern-astro#5d19e15
 ```
 
 `stylelint-config-modern` and `postcss-html` are declared as dependencies of this package — no direct install needed (verified under pnpm's strict `node_modules`).
