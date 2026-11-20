@@ -1,5 +1,5 @@
 export default {
-  extends: ['stylelint-config-modern'],
+  extends: ["stylelint-config-modern"],
   rules: {
     'media-feature-range-notation': 'context',
     'declaration-block-no-duplicate-properties': [

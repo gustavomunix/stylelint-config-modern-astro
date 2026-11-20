@@ -14,6 +14,13 @@
     "astro",
     "modern-css"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustavomunix/stylelint-config-modern-astro.git"
+  },
+  "peerDependencies": {
+    "stylelint": ">=18"
+  },
   "dependencies": {
     "postcss-html": "^2.0.1",
     "stylelint-config-modern": "^2.0.1"
